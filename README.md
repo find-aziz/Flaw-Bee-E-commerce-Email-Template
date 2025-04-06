@@ -3,7 +3,7 @@
 ## Overview
 
 This repository contains a responsive HTML email template designed for e-commerce brands in the natural products space. The Flaw & Bee template is specifically created for product promotions, newsletters, and content marketing.
-[Live Preview][https://find-aziz.github.io/Flaw-Bee-E-commerce-Email-Template/].
+[Live Preview](https://find-aziz.github.io/Flaw-Bee-E-commerce-Email-Template/).
 ## Template Features
 
 ### Design Elements
